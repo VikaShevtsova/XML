@@ -1,1 +1,17 @@
-
+<Bug_report>
+  <Bug_id> 1 </Bug_id>
+  <Title> Наложение текста при изменении размеров окна браузера в таблице «Доставка» на странице оформления заказа </Title>
+  <Severity> Mino </Severity>
+  <Priority> Low </Priority>
+  <Environment> OS Windows 10 Pro v: 21H1, Google Chrome v: Версия 96.0.4664.110, (64 бит) </Environment>
+  <Precondition>  
+    <step 1> Открыть сайт. Ссылка на сайт </step 1>
+    <step 2> Открыть 'корзину' </step 2>
+  </Precondition>
+  <Steps to reproduse> 
+    <step 1> Изменить размер окна браузера </step 1>
+  </Steps to reproduse>
+  <Actual result> Наложение текста при изменении размеров окна браузера в таблице «Доставка» на странице оформления заказа </Actual result>
+  <Expected result> При изменении размеров окна браузера текст динамичен в таблице «Доставка» на странице оформления заказа </Expected result>
+  <Attachments> video </Attachments>
+</Bug_report>
