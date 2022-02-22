@@ -1,0 +1,25 @@
+<?xml version="1.0">
+<group_27>
+    <students>
+        <student type=woman>
+            <first_name> Shevtsova </first_name>
+            <last_name> Viktoria </last_name>
+                <skills>
+                    <skill 1> Terminal Linux </skill 1>
+                    <skill 2> Codes HTTP </skill 2>
+                    <skill 3> API testing (Postman) </slill 3>
+                    <skill 4> DevTools 
+                        <skill 4.1> Google Chrome </skill 4.1>
+                        <skill 4.2> FireFox </skill 4.2>
+                    </skill 4>  
+                    <skill 5> Sniffing http web traffic  
+                        <skill 5.1> Charles </skill 5.2>
+                        <skill 5.2> Fiddler </skill 5.2>
+                    <s/kill 5>
+                    <skill 6> Load Testing (Jmeter) <s/kill 6>
+                    <skill 7> Mobile testing (Android Studio)</skill 7>
+                    <skill 8> Python (basic)</skill 8>
+                </skills>
+        </student>
+    </students>
+</group_27>
